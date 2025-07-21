@@ -48,12 +48,6 @@ Click the link above for an interactive prototype.
 
 Use the “Present” button on Figma for a clickable demo.
 
-If you want to edit:
-
-Download the .fig file from this repo.
-
-Import into your Figma workspace.
-
 🎯 Potential Use Cases
 ✅ UI/UX portfolio showcase
 ✅ Client proposals for food delivery app concepts
@@ -61,8 +55,6 @@ Import into your Figma workspace.
 ✅ Practice project for learning mobile app design flows
 
 🖼️ Preview
-
-
 
 🚀 Contributing
 Pull requests are welcome for:
